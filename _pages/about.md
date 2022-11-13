@@ -4,8 +4,5 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+More information about me on **[LinkedIn](https://www.linkedin.com/in/leonardo-fernandes-de-castro-388b571a/)**.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
