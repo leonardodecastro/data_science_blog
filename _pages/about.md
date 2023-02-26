@@ -4,7 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-More information about me on **[LinkedIn](https://www.linkedin.com/in/leonardo-fernandes-de-castro-388b571a/)**.
+Chanin is an Associate Professor of Bioinformatics and the founder of the **[Data Professor](https://youtube.com/dataprofessor)** [^1] YouTube channel.
 
-- Masters in Business Analytics (Imperial College & ESADE)
-- Masters in International Management (ESADE & HEC)
+
+
+[^1]: An educational YouTube channel about data science and bioinformatics.
