@@ -1,1 +1,1 @@
-Sitemap: https://dataprofessor.github.io/ws/sitemap.xml
+Sitemap: https://leonardodecastro.github.io/data_science_blog/sitemap.xml
